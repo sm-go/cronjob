@@ -7,3 +7,5 @@
 - version one may be easy
 
 - verion two/three will also need `fmt.Scanln()`
+
+- link : https://crontab.guru/examples.html
